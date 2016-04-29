@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pharmacopoeiaofc00londuoft_0054.png"; bbox 0 0 1708 2528; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 165 0 1708 285">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 165 0 1708 285">
+     <span class='ocr_line' id='line_1_1' title="bbox 165 0 1708 285; baseline 0.003 -32"><span class='ocrx_word' id='word_1_1' title='bbox 165 208 227 253; x_wconf 81' lang='lat'>26</span> <span class='ocrx_word' id='word_1_2' title='bbox 248 256 251 259; x_wconf 65' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 674 222 942 255; x_wconf 84' lang='lat' dir='ltr'><strong>HAUSTUS.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1636 0 1708 285; x_wconf 47' lang='lat'>3</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 30 326 1325 422">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 30 326 1325 422">
+     <span class='ocr_line' id='line_1_2' title="bbox 30 326 1325 422; baseline -0.001 -20"><span class='ocrx_word' id='word_1_5' title='bbox 30 326 215 422; x_wconf 43' lang='grc' dir='ltr'>νγ(</span> <span class='ocrx_word' id='word_1_6' title='bbox 281 356 551 404; x_wconf 86' lang='lat' dir='ltr'>HAUSTUS</span> <span class='ocrx_word' id='word_1_7' title='bbox 590 357 911 405; x_wconf 84' lang='lat' dir='ltr'>OXYMELLIS</span> <span class='ocrx_word' id='word_1_8' title='bbox 952 356 1325 404; x_wconf 81' lang='lat' dir='ltr'>COMPOSITUS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 174 484 1436 920">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 174 484 1436 782">
+     <span class='ocr_line' id='line_1_3' title="bbox 174 484 1400 547; baseline -0.002 -15"><span class='ocrx_word' id='word_1_9' title='bbox 174 485 245 542; x_wconf 76' lang='lat' dir='ltr'>R.</span> <span class='ocrx_word' id='word_1_10' title='bbox 295 484 419 532; x_wconf 85' lang='lat' dir='ltr'>Vini</span> <span class='ocrx_word' id='word_1_11' title='bbox 448 485 835 547; x_wconf 79' lang='lat' dir='ltr'>Ipecacuanhae</span> <span class='ocrx_word' id='word_1_12' title='bbox 1288 497 1400 543; x_wconf 71' lang='lat' dir='ltr'>mx.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 303 562 1436 624; baseline -0.002 -15"><span class='ocrx_word' id='word_1_13' title='bbox 303 562 569 611; x_wconf 82' lang='lat' dir='ltr'>Tincturae</span> <span class='ocrx_word' id='word_1_14' title='bbox 596 563 907 624; x_wconf 81' lang='lat' dir='ltr'>Camphorae</span> <span class='ocrx_word' id='word_1_15' title='bbox 935 562 1120 623; x_wconf 90' lang='lat' dir='ltr'><strong>Comp.</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1287 574 1436 620; x_wconf 74' lang='lat' dir='ltr'><strong>mxx.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 305 640 1429 702; baseline -0.003 -14"><span class='ocrx_word' id='word_1_17' title='bbox 305 640 533 688; x_wconf 84' lang='lat' dir='ltr'>Potassii</span> <span class='ocrx_word' id='word_1_18' title='bbox 564 641 780 688; x_wconf 84' lang='lat' dir='ltr'>Nitratis</span> <span class='ocrx_word' id='word_1_19' title='bbox 1277 655 1351 702; x_wconf 82' lang='lat' dir='ltr'>gr.</span> <span class='ocrx_word' id='word_1_20' title='bbox 1381 656 1429 686; x_wconf 85' lang='lat' dir='ltr'>v.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 305 715 1426 782; baseline -0.001 -16"><span class='ocrx_word' id='word_1_21' title='bbox 305 718 599 782; x_wconf 84' lang='lat' dir='ltr'>Oxymellis</span> <span class='ocrx_word' id='word_1_22' title='bbox 1282 715 1314 763; x_wconf 80' lang='lat' dir='ltr'>f.</span> <span class='ocrx_word' id='word_1_23' title='bbox 1343 715 1426 778; x_wconf 76' lang='lat' dir='ltr'><strong>5ij.</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 263 793 1412 920">
+     <span class='ocr_line' id='line_1_7' title="bbox 263 793 1412 859; baseline -0.003 -16"><span class='ocrx_word' id='word_1_24' title='bbox 263 793 267 796; x_wconf 47' lang='lat'>⁵</span> <span class='ocrx_word' id='word_1_25' title='bbox 304 795 515 858; x_wconf 85' lang='lat' dir='ltr'>Aquam</span> <span class='ocrx_word' id='word_1_26' title='bbox 1147 795 1212 841; x_wconf 82' lang='lat' dir='ltr'>ad</span> <span class='ocrx_word' id='word_1_27' title='bbox 1285 793 1314 840; x_wconf 87' lang='lat' dir='ltr'>f.</span> <span class='ocrx_word' id='word_1_28' title='bbox 1347 794 1412 859; x_wconf 66' lang='lat' dir='ltr'>{j</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 272 874 344 920; baseline -0.014 0"><span class='ocrx_word' id='word_1_29' title='bbox 272 874 344 920; x_wconf 94' lang='lat' dir='ltr'>M.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 207 1179 1402 1228">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 207 1179 1402 1228">
+     <span class='ocr_line' id='line_1_9' title="bbox 207 1179 1402 1228; baseline -0.001 -2"><span class='ocrx_word' id='word_1_30' title='bbox 207 1180 478 1228; x_wconf 85' lang='lat' dir='ltr'>HAUSTUS</span> <span class='ocrx_word' id='word_1_31' title='bbox 519 1180 776 1227; x_wconf 80' lang='lat' dir='ltr'>POTAssn</span> <span class='ocrx_word' id='word_1_32' title='bbox 818 1179 1131 1227; x_wconf 81' lang='lat' dir='ltr'>CHLORATIS</span> <span class='ocrx_word' id='word_1_33' title='bbox 1170 1180 1402 1227; x_wconf 72' lang='lat' dir='ltr'><strong>Aemus.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 178 1306 1438 1666">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 178 1306 1438 1605">
+     <span class='ocr_line' id='line_1_10' title="bbox 178 1306 1438 1371; baseline 0 -17"><span class='ocrx_word' id='word_1_34' title='bbox 178 1308 250 1366; x_wconf 78' lang='lat' dir='ltr'>R.</span> <span class='ocrx_word' id='word_1_35' title='bbox 310 1307 533 1355; x_wconf 75' lang='lat' dir='ltr'>Potassii</span> <span class='ocrx_word' id='word_1_36' title='bbox 560 1306 823 1355; x_wconf 81' lang='lat' dir='ltr'>Chloratis</span> <span class='ocrx_word' id='word_1_37' title='bbox 1286 1325 1361 1371; x_wconf 81' lang='lat' dir='ltr'>gr.</span> <span class='ocrx_word' id='word_1_38' title='bbox 1391 1325 1438 1354; x_wconf 87' lang='lat' dir='ltr'>x.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 308 1383 1402 1447; baseline 0.001 -16"><span class='ocrx_word' id='word_1_39' title='bbox 308 1384 458 1432; x_wconf 85' lang='lat' dir='ltr'>Acidi</span> <span class='ocrx_word' id='word_1_40' title='bbox 485 1383 890 1447; x_wconf 85' lang='lat' dir='ltr'>Hydrochlorici</span> <span class='ocrx_word' id='word_1_41' title='bbox 915 1385 1066 1431; x_wconf 81' lang='lat' dir='ltr'>diluti</span> <span class='ocrx_word' id='word_1_42' title='bbox 1291 1398 1402 1444; x_wconf 71' lang='lat' dir='ltr'>mx.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 307 1461 1415 1524; baseline -0.002 -13"><span class='ocrx_word' id='word_1_43' title='bbox 307 1461 579 1524; x_wconf 84' lang='lat' dir='ltr'>Glycerini</span> <span class='ocrx_word' id='word_1_44' title='bbox 1288 1461 1319 1509; x_wconf 81' lang='lat' dir='ltr'>f.</span> <span class='ocrx_word' id='word_1_45' title='bbox 1349 1463 1415 1524; x_wconf 77' lang='lat' dir='ltr'>5j.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 307 1539 1416 1605; baseline 0.002 -18"><span class='ocrx_word' id='word_1_46' title='bbox 307 1541 603 1587; x_wconf 84' lang='lat' dir='ltr'><strong>Decoctum</strong></span> <span class='ocrx_word' id='word_1_47' title='bbox 632 1539 919 1587; x_wconf 80' lang='lat' dir='ltr'><strong>Cinchonae</strong></span> <span class='ocrx_word' id='word_1_48' title='bbox 1155 1541 1218 1586; x_wconf 74' lang='lat' dir='ltr'>ad</span> <span class='ocrx_word' id='word_1_49' title='bbox 1291 1539 1322 1588; x_wconf 87' lang='lat' dir='ltr'>f.</span> <span class='ocrx_word' id='word_1_50' title='bbox 1352 1541 1416 1605; x_wconf 62' lang='lat' dir='ltr'>gj.</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 275 1619 349 1666">
+     <span class='ocr_line' id='line_1_14' title="bbox 275 1619 349 1666; baseline 0.027 -2"><span class='ocrx_word' id='word_1_51' title='bbox 275 1619 349 1666; x_wconf 90' lang='lat' dir='ltr'>M.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 371 1924 1246 1973">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 371 1924 1246 1973">
+     <span class='ocr_line' id='line_1_15' title="bbox 371 1924 1246 1973; baseline -0.002 -1"><span class='ocrx_word' id='word_1_52' title='bbox 371 1926 639 1973; x_wconf 85' lang='lat' dir='ltr'>HAUSTUS</span> <span class='ocrx_word' id='word_1_53' title='bbox 680 1925 926 1972; x_wconf 82' lang='lat' dir='ltr'>POTASSII</span> <span class='ocrx_word' id='word_1_54' title='bbox 969 1924 1246 1971; x_wconf 82' lang='lat' dir='ltr'><strong>CITRATIS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 180 2047 1518 2266">
+    <p class='ocr_par' dir='ltr' id='par_1_9' title="bbox 180 2047 1518 2266">
+     <span class='ocr_line' id='line_1_16' title="bbox 180 2047 1518 2109; baseline 0.001 -14"><span class='ocrx_word' id='word_1_55' title='bbox 180 2049 251 2107; x_wconf 70' lang='lat' dir='ltr'>R.</span> <span class='ocrx_word' id='word_1_56' title='bbox 304 2048 534 2096; x_wconf 82' lang='lat' dir='ltr'>Potassii</span> <span class='ocrx_word' id='word_1_57' title='bbox 562 2047 782 2096; x_wconf 80' lang='lat' dir='ltr'>Citratis</span> <span class='ocrx_word' id='word_1_58' title='bbox 1285 2063 1360 2109; x_wconf 84' lang='lat' dir='ltr'>gr.</span> <span class='ocrx_word' id='word_1_59' title='bbox 1395 2062 1518 2096; x_wconf 84' lang='lat' dir='ltr'>xxx.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_17' title="bbox 309 2123 1450 2188; baseline -0.001 -15"><span class='ocrx_word' id='word_1_60' title='bbox 309 2125 503 2188; x_wconf 82' lang='lat' dir='ltr'>Syrupi</span> <span class='ocrx_word' id='word_1_61' title='bbox 533 2124 774 2172; x_wconf 84' lang='lat' dir='ltr'>Aurantii</span> <span class='ocrx_word' id='word_1_62' title='bbox 1287 2123 1320 2170; x_wconf 86' lang='lat' dir='ltr'>f.</span> <span class='ocrx_word' id='word_1_63' title='bbox 1351 2134 1450 2185; x_wconf 74' lang='lat'><strong>555.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_18' title="bbox 309 2201 1412 2266; baseline -0.002 -16"><span class='ocrx_word' id='word_1_64' title='bbox 309 2203 520 2266; x_wconf 83' lang='lat' dir='ltr'><strong>Aquam</strong></span> <span class='ocrx_word' id='word_1_65' title='bbox 546 2202 865 2250; x_wconf 69' lang='lat' dir='ltr'>destinatam</span> <span class='ocrx_word' id='word_1_66' title='bbox 1149 2203 1214 2248; x_wconf 84' lang='lat' dir='ltr'>ad</span> <span class='ocrx_word' id='word_1_67' title='bbox 1287 2201 1318 2249; x_wconf 86' lang='lat' dir='ltr'>f.</span> <span class='ocrx_word' id='word_1_68' title='bbox 1348 2201 1412 2266; x_wconf 65' lang='lat' dir='ltr'>gj.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 279 2282 352 2329">
+    <p class='ocr_par' dir='ltr' id='par_1_10' title="bbox 279 2282 352 2329">
+     <span class='ocr_line' id='line_1_19' title="bbox 279 2282 352 2329; baseline 0.014 -1"><span class='ocrx_word' id='word_1_69' title='bbox 279 2282 352 2329; x_wconf 92' lang='lat' dir='ltr'>M.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 1673 800 1708 2528">
+    <p class='ocr_par' dir='ltr' id='par_1_11' title="bbox 1673 800 1708 2528">
+     <span class='ocr_line' id='line_1_20' title="bbox 1673 800 1708 2528; baseline 0 0"><span class='ocrx_word' id='word_1_70' title='bbox 1673 800 1708 2528; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

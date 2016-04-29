@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pharmacopoeiaofc00londuoft_0003.png"; bbox 0 0 1722 2548; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 139 0 1678 1188">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 139 0 1678 1188">
+     <span class='ocr_line' id='line_1_1' title="bbox 139 0 1678 1188; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 139 0 1678 1188; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 414 1354 1344 1528">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 414 1354 1344 1528">
+     <span class='ocr_line' id='line_1_2' title="bbox 561 1354 1215 1421; baseline 0.015 -10"><span class='ocrx_word' id='word_1_2' title='bbox 561 1354 890 1413; x_wconf 70' lang='grc' dir='ltr'>ιιΒΗΑΗΥ</span> <span class='ocrx_word' id='word_1_3' title='bbox 926 1363 1026 1416; x_wconf 75' lang='lat'>01-</span> <span class='ocrx_word' id='word_1_4' title='bbox 1060 1367 1215 1421; x_wconf 68' lang='grc' dir='ltr'>τΗΕῑ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 414 1439 1344 1528; baseline 0.014 -21"><span class='ocrx_word' id='word_1_5' title='bbox 414 1439 853 1520; x_wconf 71' lang='grc' dir='ltr'>ΟΝΤΑΒΙΟ</span> <span class='ocrx_word' id='word_1_6' title='bbox 908 1454 1344 1528; x_wconf 46' lang='grc' dir='ltr'>ΟΟι-ιεζὴϋ.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 612 1566 1163 1754">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 612 1566 1163 1754">
+     <span class='ocr_line' id='line_1_4' title="bbox 612 1566 1163 1754; baseline 0.018 -41"><span class='ocrx_word' id='word_1_7' title='bbox 612 1566 1163 1754; x_wconf 55' lang='grc' dir='ltr'>ΡΗΑὲἶΛΑοΥ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

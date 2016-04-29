@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pharmacopoeiaofc00londuoft_0101.png"; bbox 0 0 1748 2534; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 58 0 1581 359">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 58 0 1581 359">
+     <span class='ocr_line' id='line_1_1' title="bbox 58 0 1581 133; baseline 0.001 -51"><span class='ocrx_word' id='word_1_1' title='bbox 58 0 364 87; x_wconf 48' lang='lat' dir='ltr'><em>Q</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 403 2 548 80; x_wconf 57' lang='lat' dir='ltr'><em>M</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 598 7 1130 133; x_wconf 51' lang='lat' dir='ltr'><em>myzstffl</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1185 0 1581 105; x_wconf 41' lang='grc' dir='ltr'><em>(ὔμμι-τὴ)</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 378 117 1342 217; baseline -0.008 7.422"><span class='ocrx_word' id='word_1_5' title='bbox 378 117 910 217; x_wconf 42' lang='lat' dir='ltr'><em>fflflffm</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 943 126 1342 217; x_wconf 38' lang='lat' dir='ltr'><em>&amp;amad</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 216 247 1405 359; baseline 0.005 -21"><span class='ocrx_word' id='word_1_7' title='bbox 216 289 223 307; x_wconf 87' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 381 247 830 346; x_wconf 48' lang='grc' dir='ltr'><em>ΜΛὛΜΜ</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 856 254 1405 359; x_wconf 47' lang='grc' dir='ltr'><em>ΜΜΜ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1279 350 1495 438">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1279 350 1495 438">
+     <span class='ocr_line' id='line_1_4' title="bbox 1279 350 1495 438; baseline -0.005 -17"><span class='ocrx_word' id='word_1_10' title='bbox 1279 350 1495 438; x_wconf 38' lang='grc' dir='ltr'><em>μή</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 513 1748 2534">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 513 1748 2534">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 513 1748 2534; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 513 1748 2534; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
